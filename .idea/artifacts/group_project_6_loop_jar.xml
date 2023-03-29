@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="group-project-6-loop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/group_project_6_loop_jar</output-path>
+    <root id="archive" name="group-project-6-loop.jar" />
+  </artifact>
+</component>
